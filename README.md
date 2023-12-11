@@ -14,7 +14,7 @@
 <p style = "align-items: center; text-align: center; display: flex; justify-content: center"> <img align="center" style = "width: 100%;  padding: 40px; margin-right: 30px; margin-left: 30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinyuta&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shinyuta" /></p>
 <br/>
 
-<p style = "align-items: center; text-align: center; display: flex; justify-content: center"> <img align="center" style = "width: 100%; padding: 40px; margin-right: 30px;margin-left: 30px" src="https://github-readme-stats.vercel.app/api?username=shinyuta&show_icons=true&locale=en&theme=transparent" alt="shinyuta" /></p>
+<p style = "align-items: center; text-align: center; display: flex; justify-content: center"> <img align="center" style = "width: 100%; padding: 40px; margin-right: 30px;margin-left: 30px" src="https://vercel-githubstats-shinyutas-projects.vercel.app/api?username=shinyuta&show_icons=true&locale=en&theme=transparent&count_private=true" alt="shinyuta" /></p>
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
