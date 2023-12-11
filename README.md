@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuta</h1>
 <h3 align="center">I am a student at U of MN College of Science and Engineering working towards being a full stack developer. I am certified in full stack web developement from the U of MN.</h3>
 
-<p align = "center"> <img style = "width: 100%; margin-top: 40px" src = "./assets/page.gif"> </p>
+<p align = "center"> <img style = "width: 100%; margin-top: 40px" src = "./assets/page.gif" autoplay loop> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
