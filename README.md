@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuta</h1>
 <h3 align="center" style = "margin-bottom: 50px">I am a student at U of MN College of Science and Engineering working towards being a full stack developer. I am certified in full stack web developement from the U of MN.</h3>
 
+<br/>
+<br/>
+<br/>
+
 <p align = "center"> <img style = "width: 100%; margin-top: 70px; border-radius: 50px" src = "./assets/page.gif" autoplay loop> </p>
 
 
