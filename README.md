@@ -6,8 +6,6 @@
 
 <p style = "align-items: center; text-align: center; display: flex; justify-content: center"> <img align="center" style = "width: 100%;  padding: 40px; margin-right: 30px; margin-left: 30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinyuta&show_icons=true&locale=en&layout=compact" alt="shinyuta" /></p>
 
-<p style = "align-items: center; text-align: center; display: flex; justify-content: center;"> <img align="center" style = "width: 100%; padding: 40px; margin-right: 30px; margin-left: 30px" src="https://github-readme-streak-stats.herokuapp.com/?user=shinyuta&" alt="shinyuta" /></p>
-
 <p style = "align-items: center; text-align: center; display: flex; justify-content: center"> <img align="center" style = "width: 100%; padding: 40px; margin-right: 30px;margin-left: 30px" src="https://github-readme-stats.vercel.app/api?username=shinyuta&show_icons=true&locale=en" alt="shinyuta" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
