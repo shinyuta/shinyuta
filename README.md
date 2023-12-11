@@ -2,6 +2,9 @@
 <h3 align="center" style = "margin-bottom: 50px">I am a student at U of MN College of Science and Engineering working towards being a full stack developer. I am certified in full stack web developement from the U of MN.</h3>
 
 <br/>
+
+<p align="center"> <a href="https://shinywinter.net/" target="blank"><img style = "width: 200px" src="https://img.shields.io/badge/shinywinter.net%20-%20website?logo=snowflake&logoColor=%239585ffff&labelColor=%23c6c6e6ff&color=%23D7D9D3" alt="shinywinter.net" /></a> </p>
+
 <br/>
 
 <p align = "center"> <img style = "width: 100%; margin-top: 70px; border-radius: 50px" src = "./assets/page.gif" autoplay loop> </p>
